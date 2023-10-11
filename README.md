@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ayariga Mikel Winemi
+- I'm an android developer and I work with Kotlin and flutter 
 - 👀 I’m interested in coding, sports, video games and music
 - 🌱 I’m currently learning android development
 - 📫 Reach me on twitter @MikelWinemi
