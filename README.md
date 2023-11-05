@@ -16,7 +16,7 @@ I believe in continuous learning and improvement. I'm always exploring new techn
 
 ## 🌐 Let's Connect!
 
-https://x.com/MikelWinemi?t=kxuIgYWdspiEyoeeerBqUg&s=09
 Feel free to reach out if you're interested in collaborating on a project, or if you just want to connect and chat about Android development. I'm always open to new opportunities and connections.
 
 Thank you for visiting my GitHub profile!
+Twitter = https://x.com/MikelWinemi?t=kxuIgYWdspiEyoeeerBqUg&s=09
