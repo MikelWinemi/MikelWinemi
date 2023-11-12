@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Mikel Ayariga, an android developer with a passion for creating innovative and efficient applications. I specialize in using **Kotlin**, **Jetpack Compose**, **Flutter**, and **Python** to build user-friendly and high-performance apps.
+I'm Mikel Winemi Ayariga, an android developer with a passion for creating innovative and efficient applications. I specialize in using **Kotlin**, **Jetpack Compose**, **Flutter**, and **Python** to build user-friendly and high-performance apps.
 
 ## 🛠 Skills and Tools
 
