@@ -22,4 +22,4 @@ Feel free to reach out if you're interested in collaborating on a project, or if
 
 Thank you for visiting my GitHub profile!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikelWinemiact&theme=tokyonight)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikelWinemiact&theme=tokyonight)](https://github.com/MikelWinemi)
