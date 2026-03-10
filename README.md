@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Mobile App Developer | Cloud Computing | IT Help Desk**
 
-I'm a versatile full-stack developer with a passion for building mobile and web applications that people love. With published apps on both the Google Play Store and Apple App Store, I bring ideas to life using React, Flutter, Swift, and Node.js.
+I'm a versatile full-stack developer with a passion for building mobile and web applications that people love. With published apps on both the Google Play Store and Apple App Store, I bring ideas to life using React, Flutter, Swift, and Jetpack Compose.
 
 Beyond development, I have hands-on experience in **cloud computing** — designing, deploying, and managing infrastructure on platforms like AWS and Azure. I also bring **help desk and IT support** expertise, including troubleshooting, ticketing systems, and end-user assistance.
 
