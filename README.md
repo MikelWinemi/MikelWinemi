@@ -33,16 +33,24 @@ Beyond development, I have hands-on experience in **cloud computing** — design
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikelWinemi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikelWinemi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170" />
+  <a href="https://github.com/MikelWinemi">
+    <img src="https://github-readme-stats.vercel.app/api?username=MikelWinemi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/MikelWinemi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikelWinemi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikelWinemi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/MikelWinemi">
+    <img src="https://streak-stats.demolab.com/?user=MikelWinemi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikelWinemi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/MikelWinemi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikelWinemi&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  </a>
 </p>
 
 ---
